@@ -1,1 +1,1 @@
-# miniDataProjects
+# Mini Data Projects
